@@ -1,2 +1,3 @@
 # git-sandbox
-Sample repo for teaching and experimenting with Git
+
+This is a sample repo for teaching and experimenting with Git.
