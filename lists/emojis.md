@@ -15,3 +15,5 @@
 :horse: `:horse:` 🐴
 
 :horse_racing: `:horse_racing:` 🏇
+
+:recycle: ♻️ 
